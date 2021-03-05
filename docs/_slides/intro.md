@@ -1,1 +1,4 @@
-# Introduction to Using Git in Jupyter
+---
+---
+
+# {{site.title}}
