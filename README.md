@@ -1,4 +1,4 @@
-## Basic Git and Jupyter Lesson
+## Introduction to Using Git in Jupyter
 
 This lesson will cover how to work with git-versioned projects in Jupyer.
 
