@@ -1,0 +1,13 @@
+title: Introduction to Using Git in Jupyter
+handouts:        # a list of handouts, e.g. worksheets and data
+ - ...
+tag: v1.0
+lesson: ...      # the number of the lesson (for /instructor view)
+lifecycle: beta # status for lifecycle badge 
+badgecolor: blue # color for lifecycle badge
+warning: true    # whether to include note about lifecycle status
+instructor: ...  Andres Garcia
+authors:  
+ - Andres Garcia
+sorter:          # an ordered list of slides (file names without extension)
+ - ...           # contained in the top-level "slides" folder
