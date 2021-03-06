@@ -11,4 +11,8 @@ authors:
  - Andres Garcia
 sorter:          # an ordered list of slides (file names without extension)
  - title
- - intro        
+ - intro     
+ - git
+ - branches
+ - revert
+ 
