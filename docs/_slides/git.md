@@ -6,11 +6,8 @@
 ### Create a GitHub or GitLab Accout
 To sync your local repository to a remote repository, 
 you will need to create a remote repo on GitHub or GitLab.
-
 See our [quickstart instructions here](https://cyberhelp.sesync.org/quickstart/creating-a-new-git-project.html).
-
 To create a GiHub account please visit [GitHub](https://github.com).
-
 To create a GitLab account please visit [GitLab](https://about.gitlab.com).
 
 ### Setup git

@@ -12,6 +12,6 @@ authors:
 sorter:      
  - intro     
  - git
- - branches
- - revert
+ - point-click
+ - command-line
  
