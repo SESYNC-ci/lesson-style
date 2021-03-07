@@ -9,8 +9,7 @@ warning: true    # whether to include note about lifecycle status
 instructor: ...  Andres Garcia
 authors:  
  - Andres Garcia
-sorter:          # an ordered list of slides (file names without extension)
- - title
+sorter:      
  - intro     
  - git
  - branches
