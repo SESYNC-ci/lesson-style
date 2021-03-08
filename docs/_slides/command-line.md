@@ -37,7 +37,7 @@ Your repository is empty right now, let's push a notebook to it.
 1. In your project folder create a new notebook, go to: **File -> New Launcher -> Python3**
 2. Name the Python notebook
 3. Do your work in the notebook or script and save it
-===
+
 ![]({% include asset.html path="images/save-notebook.png" %}){:.nobox}
 {:.captioned}
 
@@ -46,7 +46,7 @@ Your repository is empty right now, let's push a notebook to it.
 git status
 ```
 Your file will be listed under untracked files:
-===
+
 ![]({% include asset.html path="images/git-untracked.png" %}){:.nobox}
 {:.captioned}
 
@@ -54,7 +54,7 @@ Your file will be listed under untracked files:
 ```
 git add main.py
 ```
-===
+
 ![]({% include asset.html path="images/git-add.png" %}){:.nobox}
 {:.captioned}
 
@@ -66,7 +66,7 @@ You can see that `main.ipynb` is being tracked. Let's commit the changes.
 ```
 git commit -m "Descriptive statitics."
 ```
-===
+
 ![]({% include asset.html path="images/git-commit.png" %}){:.nobox}
 {:.captioned}
 
@@ -81,12 +81,12 @@ git pull origin main
 ```
 git push origin main
 ```
-===
+
 ![]({% include asset.html path="images/git-push.png" %}){:.nobox}
 {:.captioned}
 
 You can visit the project's GitHub repository page and see your commits.
-===
+
 ![]({% include asset.html path="images/git-push-2.png" %}){:.nobox}
 {:.captioned}
 
