@@ -44,18 +44,15 @@ git status
 ```
 Your file will be listed under untracked files.
 ![]({% include asset.html path="images/git-untracked.png" %})
-
 5. Stage your changes with `git add <filename>`
 ```
 git add main.py
 ```
 You can check which files are being tracked with `git status`.
+
 You can see that `main.ipynb` is being tracked. 
 ![]({% include asset.html path="images/git-add.png" %})
-
-6. Commit your changes with `git commit -m "Commit Message Here"`
-
-`commit` creates a checkpoint that you can revert back to at any time.
+6. Commit your changes with `git commit -m "Commit Message Here"`. `commit` creates a checkpoint that you can revert back to at any time
 ```
 git commit -m "Descriptive statitics."
 ```
