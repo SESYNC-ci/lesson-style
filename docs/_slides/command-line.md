@@ -45,7 +45,6 @@ git status
 Your file will be listed under untracked files:
 
 ![]({% include asset.html path="images/git-untracked.png" %})
-
 5. Stage your changes with `git add <filename>`
 ```
 git add main.py
