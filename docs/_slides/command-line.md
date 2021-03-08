@@ -44,18 +44,15 @@ git status
 ```
 Your file will be listed under untracked files:
 
-![]({% include asset.html path="images/git-untracked.png" %}){:.nobox}
-{:.captioned}
+![]({% include asset.html path="images/git-untracked.png" %})
 
 5. Stage your changes with `git add <filename>`
 ```
 git add main.py
 ```
-![]({% include asset.html path="images/git-add.png" %}){:.nobox}
-{:.captioned}
+![]({% include asset.html path="images/git-add.png" %})
 
 You can check which files are being tracked with `git status`.
-
 You can see that `main.ipynb` is being tracked. Let's commit the changes.
 
 6. Commit your changes with `git commit -m "Commit Message Here"`
@@ -63,9 +60,7 @@ You can see that `main.ipynb` is being tracked. Let's commit the changes.
 git commit -m "Descriptive statitics."
 ```
 
-![]({% include asset.html path="images/git-commit.png" %}){:.nobox}
-{:.captioned}
-
+![]({% include asset.html path="images/git-commit.png" %})
 `commit` creates a checkpoint that you can revert back to at any time.
 
 7. Pull down the current version of the repository from GitHub
@@ -78,15 +73,8 @@ git pull origin main
 git push origin main
 ```
 
-![]({% include asset.html path="images/git-push.png" %}){:.nobox}
-{:.captioned}
+![]({% include asset.html path="images/git-push.png" %})
 
 You can visit the project's GitHub repository page and see your commits.
 
-![]({% include asset.html path="images/git-push-2.png" %}){:.nobox}
-{:.captioned}
-
-
-
-
-
+![]({% include asset.html path="images/git-push-2.png" %})
