@@ -39,7 +39,6 @@ Your repository is empty right now, let's push a notebook to it.
 3. Do your work in the notebook or script and save it
 ![]({% include asset.html path="images/save-notebook.png" %}){:.nobox}
 {:.captioned}
-
 4. Go to terminal and check the status of your repository
 ```
 git status
