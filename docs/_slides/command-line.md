@@ -29,8 +29,8 @@ ls # lists the names of the folder in your current directory
 cd my-cloned-repo # navigate into the cloned repository
 ```
 
-Congrats! You have successfully linked your remote and local repositories. 
-Next we will go over how to add your notebooks and files to you newly created repository. 
+Congrats! You have successfully cloned your remote repository. 
+Next we will go over how to add your notebooks and files from your local to your newly created repository. 
 
 ### Push Notebooks to GitHub
 Your repository is empty right now, let's push a notebook to it. 
@@ -60,7 +60,6 @@ You can see that `main.ipynb` is being tracked.
 git commit -m "Descriptive statitics."
 ```
 ![]({% include asset.html path="images/git-commit.png" %})
-
 7. Pull down the current version of the repository from GitHub
 ```
 git pull origin main
