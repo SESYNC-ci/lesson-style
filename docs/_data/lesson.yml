@@ -14,4 +14,6 @@ sorter:
  - git
  - point-click
  - command-line
+ - branches
+ - pull-requests
  

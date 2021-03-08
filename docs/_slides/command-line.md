@@ -74,4 +74,3 @@ Congrats! Yout have succesfully cloned a repository and staged, committed, and p
 If you are confused about the differences between git, GitHub, Gitlab, please refer to SESYNC's FAQ [here](https://cyberhelp.sesync.org/faq/git-vs-github-vs-gitlab.html). 
 
 If you would like to use git with RStudio, check out our FAQ [here](https://cyberhelp.sesync.org/faq/create-rstudio-from-git.html). 
-
