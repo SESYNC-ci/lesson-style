@@ -43,8 +43,8 @@ Your repository is empty right now, let's push a notebook to it.
 git status
 ```
 Your file will be listed under untracked files:
-
 ![]({% include asset.html path="images/git-untracked.png" %})
+
 5. Stage your changes with `git add <filename>`
 ```
 git add main.py
@@ -52,13 +52,14 @@ git add main.py
 ![]({% include asset.html path="images/git-add.png" %})
 
 You can check which files are being tracked with `git status`.
-You can see that `main.ipynb` is being tracked. Let's commit the changes.
+You can see that `main.ipynb` is being tracked. 
+
+Let's commit the changes.
 
 6. Commit your changes with `git commit -m "Commit Message Here"`
 ```
 git commit -m "Descriptive statitics."
 ```
-
 ![]({% include asset.html path="images/git-commit.png" %})
 `commit` creates a checkpoint that you can revert back to at any time.
 
@@ -71,7 +72,6 @@ git pull origin main
 ```
 git push origin main
 ```
-
 ![]({% include asset.html path="images/git-push.png" %})
 
 You can visit the project's GitHub repository page and see your commits.
