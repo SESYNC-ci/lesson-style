@@ -19,6 +19,7 @@ To share it we will us, [nbviewer](https://nbviewer.jupyter.org), and interactiv
 ![]({% include asset.html path="images/share-go-nbviewer.png" %})
 
 Congrats! You can now copy the ulr and share your finished product with your colleagues.
+![]({% include asset.html path="images/share-final.png" %})
 
 
 
