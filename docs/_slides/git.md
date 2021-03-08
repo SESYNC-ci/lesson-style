@@ -28,7 +28,19 @@ git config --global user.name "email@example.com"
 
 You can start the terminal form the JupyterLab launcher.
 
-===
 ![]({% include asset.html path="images/terminal_jupyter.png" %}){:.nobox}
 {:.captioned}
+
+### Create a new repository
+A GitHub repository is like a supercharged folder in the cloud. You can store
+files, look at historical changes to these files, open issues, discuss changes 
+and more. People typically create one repository per project. 
+
+Create a repository on GitHub. Once created, you'll see a page like the one below.
+
+![]({% include asset.html path="images/copy-repo-url.png" %}){:.nobox}
+{:.captioned}
+
+Copy the highlighted repository URL which you will use to clone your remote repository. 
+
 
