@@ -16,7 +16,6 @@ git checkout -b new_branch_name
 ```
 # push branch
 git push --set-upstream origin new_branch_name
-
 # now add, commit, and push changes
 userName@juplab00:~/jupyter/jupyter-lab-lesson$ git add .
 userName@juplab00:~/jupyter/jupyter-lab-lesson$ git commit -m "added fox."
