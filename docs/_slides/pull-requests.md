@@ -22,9 +22,11 @@ userName@juplab00:~/jupyter/jupyter-lab-lesson$ git push
 GitHub pull request are fantastic for peer review as they let you see changes side-by-side, write comment to seek clarification or provide feedback, and finally merge the changes once approved.
 
 To revert back to a previous commit:
-1. Start a new branch 
 ```
 git checkout -b old-state
 ```
 ![]({% include asset.html path="images/git-revert.png" %})
+
+When you are ready to commit your changes, do the usual `git add`, `git commit`, `git push` 
+
 
