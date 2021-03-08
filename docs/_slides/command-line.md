@@ -25,8 +25,8 @@ Let's clone your remote repository by running the following command using the re
 ```
 git clone https://github.com/githubUserName/my-repo-name.git
 
-ls # to see name of the cloned repository
-cd my-cloned-repo # navigate into the clones repository
+ls # lists the names of the folder in your current directory
+cd my-cloned-repo # navigate into the cloned repository
 ```
 
 Congrats! You have successfully linked your remote and local repositories. 
@@ -42,7 +42,7 @@ Your repository is empty right now, let's push a notebook to it.
 ```
 git status
 ```
-Your file will be listed under untracked files:
+Your file will be listed under untracked files.
 ![]({% include asset.html path="images/git-untracked.png" %})
 
 5. Stage your changes with `git add <filename>`
@@ -54,6 +54,7 @@ You can see that `main.ipynb` is being tracked.
 ![]({% include asset.html path="images/git-add.png" %})
 
 6. Commit your changes with `git commit -m "Commit Message Here"`
+
 `commit` creates a checkpoint that you can revert back to at any time.
 ```
 git commit -m "Descriptive statitics."
@@ -74,3 +75,10 @@ git push origin main
 You can visit the project's GitHub repository page and see your commits.
 
 ![]({% include asset.html path="images/git-push-2.png" %})
+
+Congrats! Yout have succesfully cloned a repository and staged, committed, and pushed your local changed to it. 
+
+If you are confused about the differences between git, GitHub, Gitlab, please refer to SESYNC's FAQ [here](https://cyberhelp.sesync.org/faq/git-vs-github-vs-gitlab.html). 
+
+If you would like to use git with RStudio, check out our FAQ [here](https://cyberhelp.sesync.org/faq/create-rstudio-from-git.html). 
+
