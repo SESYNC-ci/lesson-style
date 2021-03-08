@@ -49,7 +49,6 @@ Your file will be listed under untracked files.
 git add main.py
 ```
 You can check which files are being tracked with `git status`.
-
 You can see that `main.ipynb` is being tracked. 
 ![]({% include asset.html path="images/git-add.png" %})
 6. Commit your changes with `git commit -m "Commit Message Here"`. `commit` creates a checkpoint that you can revert back to at any time
@@ -67,9 +66,7 @@ git pull origin main
 git push origin main
 ```
 ![]({% include asset.html path="images/git-push.png" %})
-
 You can visit the project's GitHub repository page and see your commits.
-
 ![]({% include asset.html path="images/git-push-2.png" %})
 
 Congrats! Yout have succesfully cloned a repository and staged, committed, and pushed your local changed to it. 
