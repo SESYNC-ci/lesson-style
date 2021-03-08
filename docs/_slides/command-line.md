@@ -37,8 +37,7 @@ Your repository is empty right now, let's push a notebook to it.
 1. In your project folder create a new notebook, go to: **File -> New Launcher -> Python3**
 2. Name the Python notebook
 3. Do your work in the notebook or script and save it
-![]({% include asset.html path="images/save-notebook.png" %}){:.nobox}
-{:.captioned}
+![]({% include asset.html path="images/save-notebook.png" %})
 4. Go to terminal and check the status of your repository
 ```
 git status
@@ -52,7 +51,6 @@ Your file will be listed under untracked files:
 ```
 git add main.py
 ```
-
 ![]({% include asset.html path="images/git-add.png" %}){:.nobox}
 {:.captioned}
 
