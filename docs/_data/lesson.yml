@@ -16,4 +16,5 @@ sorter:
  - command-line
  - branches
  - pull-requests
+ - share_notebook
  
