@@ -4,7 +4,7 @@ handouts:        # a list of handouts, e.g. worksheets and data
 tag: v1.0
 lesson: ...      # the number of the lesson (for /instructor view)
 lifecycle: alpha # status for lifecycle badge 
-badgecolor: blue # color for lifecycle badge
+badgecolor: pink # color for lifecycle badge
 warning: true    # whether to include note about lifecycle status
 instructor: ...  Andres Garcia
 authors:  
