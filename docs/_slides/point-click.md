@@ -48,15 +48,16 @@ Congrats! You have now succesfully completed your first commit!
 1. Under the Git tab click Add Remote Repository
 2. Paste the remote repository's url and click ok
 ![]({% include asset.html path="images/ui-git-add-remote.png" %})
-![]({% include asset.html path="images/ui-remote-url.png" %})
 3. Go to the Git tab and click Push to Remote
 ![]({% include asset.html path="images/ui-git-push-remote.png" %})
 4. If prompted, enter your username and password for your remote repository and click ok
 
 You wil see a successful push message once the push has been completed.
+
 ![]({% include asset.html path="images/ui-git-successful-push.png" %})
 
 You can visit the project's GitHub repository and see your commits. 
+
 ![]({% include asset.html path="images/ui-check-commits.png" %})
 
 ### Push Notebooks to GitHub
