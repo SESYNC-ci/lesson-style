@@ -46,8 +46,8 @@ Congrats! You have now succesfully completed your first commit!
 
 ### Link your local repository to your GitHub repository
 1. Under the Git tab click Add Remote Repository
-![]({% include asset.html path="images/ui-git-add-remote.png" %})
 2. Paste the remote repository's url and click ok
+![]({% include asset.html path="images/ui-git-add-remote.png" %})
 ![]({% include asset.html path="images/ui-remote-url.png" %})
 3. Go to the Git tab and click Push to Remote
 ![]({% include asset.html path="images/ui-git-push-remote.png" %})
