@@ -23,7 +23,7 @@ SESYNC's Jupyter Lab server has the [JupyterLab git extension](https://github.co
 Congrats! You have initialized a new git repository by using the git extension.
 
 Now, it is time to do some work by adding a new notebook. 
-1. Go to: **File -> New Launcher -> Python3** and start a new notebook
+1. Go to **File -> New Launcher -> Python3** and start a new notebook
 ![]({% include asset.html path="images/ui-new-notebook.png" %})
 2. Work, edit, and save your notebook
 ![]({% include asset.html path="images/ui-workbook-save.png" %})
