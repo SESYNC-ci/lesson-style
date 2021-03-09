@@ -11,16 +11,13 @@ SESYNC's Jupyter Lab server has the [JupyterLab git extension](https://github.co
 ### Create a new folder
 
 1. Click on the **New Folder** and name it
-![]({% include asset.html path="images/ui-new-folder.png" %})
 2. Navigate to the new folder 
-![]({% include asset.html path="images/ui-go-folder.png" %})
+![]({% include asset.html path="images/ui-new-folder.png" %})
 
 ### Create a local git repository
 1. Clik the Git tab
 2. Click Initialize a Repository
-===
 ![]({% include asset.html path="images/ui-git-init.png" %})
-===
 3. Click yes to confirm and initialize the folder as a git repository
 
 Congrats! You have initialized a new git repository by using the git extension.
@@ -38,12 +35,12 @@ You are now ready to commit your work.
 ![]({% include asset.html path="images/ui-git-extension.png" %})
 2. Track your notebook by clicking on the plus sign next to its name
 ![]({% include asset.html path="images/ui-git-track.png" %})
-You have staged your noteboo. You will notice that it is now under the Stages section. 
+You have staged your notebook. You will notice that it is now under the Staged section. 
 ![]({% include asset.html path="images/ui-git-staged.png" %})
 4. Add a title and a brief message description
 5. Click Commit
 ![]({% include asset.html path="images/ui-git-commit.png" %})
-6. If prompted enter your name and email. Once the commit is succesfully completed you will see a green message box popup from the bottom left corner. 
+6. If prompted enter your name and email. Once the commit is succesfully completed you will see a green message box popup from the bottom right corner. 
 
 Congrats! You have now succesfully completed your first commit!
 
@@ -51,6 +48,7 @@ Congrats! You have now succesfully completed your first commit!
 1. Under the Git tab click Add Remote Repository
 ![]({% include asset.html path="images/ui-git-add-remote.png" %})
 2. Paste the remote repository's url and click ok
+
 ![]({% include asset.html path="images/ui-remote-url.png" %})
 3. Go to the Git tab and click Push to Remote
 ![]({% include asset.html path="images/ui-git-push-remote.png" %})
@@ -70,7 +68,7 @@ Let's say you have added new changes to your notebook and you would like to comm
 ![]({% include asset.html path="images/ui-commit-changes-remote.png" %})
 If promted, enter your username and password.
 
-Congrats! You have successfully made changes to your notebook and pushed this changes to the project's local and remote repositories.
+Congrats! You have successfully made changes to your notebook and pushed these changes to the project's local and remote repositories.
 
 
 
