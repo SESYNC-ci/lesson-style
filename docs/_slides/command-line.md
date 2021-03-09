@@ -49,11 +49,9 @@ Your file will be listed under untracked files.
 git add main.py
 ```
 You can check which files are being tracked with `git status`.
-
 You can see that `main.ipynb` is being tracked. 
 ![]({% include asset.html path="images/git-add.png" %})
 6. Commit your changes with `git commit -m "Commit Message Here"`. 
-
 `commit` creates a checkpoint that you can revert back to at any time
 ```
 git commit -m "Descriptive statitics."
@@ -63,7 +61,6 @@ git commit -m "Descriptive statitics."
 ```
 git pull origin main
 ``` 
-
 8. Push your changes to the project's Github repository
 ```
 git push origin main
