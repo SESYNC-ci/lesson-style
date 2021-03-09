@@ -10,7 +10,6 @@ you will need to create a remote repo on GitHub or GitLab.
 See our [quickstart instructions here](https://cyberhelp.sesync.org/quickstart/creating-a-new-git-project.html).
 
 To create a GiHub account please visit [GitHub](https://github.com).
-
 To create a GitLab account please visit [GitLab](https://about.gitlab.com).
 
 ### Setup git
@@ -34,7 +33,8 @@ You can start the terminal form the JupyterLab launcher.
 
 1. Log into (SESYNC's Jupyter Server)[https://jupyter.sesync.org]
 2. Go to **File -> New Launcher**
-3. Click on Terminal. The terminal will open in a new tab 
+3. Click on Terminal. The terminal will open in a new tab
+ 
 ![]({% include asset.html path="images/terminal_jupyter.png" %}){:.nobox}
 {:.captioned}
 
