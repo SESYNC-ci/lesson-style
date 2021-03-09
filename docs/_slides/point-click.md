@@ -5,23 +5,22 @@
 
 SESYNC's Jupyter Lab server has the [JupyterLab git extension](https://github.com/jupyterlab/jupyterlab-git#readme) enabled. The extension is a user-friendly add-on for JupyterLab that lets you do basic git actions with a point-and-click interface. Access the extension by simply clicking on the git icon on the left-hand side of your screen in Jupyter Lab (you should see something like the screenshot below).
 
-===
 ![]({% include asset.html path="images/git-extension.png" %}){:.nobox}
 {:.captioned}
 
 ### Create a new folder
 
 1. Click on the **New Folder** and name it
-
 ![]({% include asset.html path="images/ui-new-folder.png" %})
-
 2. Navigate to the new folder 
 ![]({% include asset.html path="images/ui-go-folder.png" %})
 
 ### Create a local git repository
 1. Clik the Git tab
 2. Click Initialize a Repository
+===
 ![]({% include asset.html path="images/ui-git-init.png" %})
+===
 3. Click yes to confirm and initialize the folder as a git repository
 
 Congrats! You have initialized a new git repository by using the git extension.
