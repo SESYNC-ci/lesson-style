@@ -3,7 +3,7 @@ handouts:        # a list of handouts, e.g. worksheets and data
  - ...
 tag: v1.0
 lesson: ...      # the number of the lesson (for /instructor view)
-lifecycle: beta # status for lifecycle badge 
+lifecycle: alpha # status for lifecycle badge 
 badgecolor: blue # color for lifecycle badge
 warning: true    # whether to include note about lifecycle status
 instructor: ...  Andres Garcia
@@ -17,4 +17,4 @@ sorter:
  - branches
  - pull-requests
  - share_notebook
- 
+

@@ -5,9 +5,10 @@ This lesson will cover how to work with git-versioned projects in Jupyer.
 
 ## Instructor Notes
 
-Participants should have a general knowledge of Jupyter Lab and git.
+Participants should have a general knowledge of JupyterLab and git.
 This lesson is intended as an extension of the RStudio + git lesson. 
 It includes basic information about using git in jupyter. 
+This lesson has not been taught yet. 
 
 ## Cyberhelp @SESYNC
 

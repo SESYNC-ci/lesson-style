@@ -12,7 +12,9 @@ SESYNC's Jupyter Lab server has the [JupyterLab git extension](https://github.co
 ### Create a new folder
 
 1. Click on the **New Folder** and name it
+
 ![]({% include asset.html path="images/ui-new-folder.png" %})
+
 2. Navigate to the new folder 
 ![]({% include asset.html path="images/ui-go-folder.png" %})
 
