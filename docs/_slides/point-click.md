@@ -48,7 +48,6 @@ Congrats! You have now succesfully completed your first commit!
 1. Under the Git tab click Add Remote Repository
 ![]({% include asset.html path="images/ui-git-add-remote.png" %})
 2. Paste the remote repository's url and click ok
-
 ![]({% include asset.html path="images/ui-remote-url.png" %})
 3. Go to the Git tab and click Push to Remote
 ![]({% include asset.html path="images/ui-git-push-remote.png" %})
@@ -66,7 +65,7 @@ Let's say you have added new changes to your notebook and you would like to comm
 1. Follow the previous instructions to stage, commit and push to your local repository.
 2. Push your chnages to your remote repository by clicking on the cloud icon with the up arrow
 ![]({% include asset.html path="images/ui-commit-changes-remote.png" %})
-If promted, enter your username and password.
+3. If promted, enter your username and password.
 
 Congrats! You have successfully made changes to your notebook and pushed these changes to the project's local and remote repositories.
 
