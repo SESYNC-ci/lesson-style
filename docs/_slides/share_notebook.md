@@ -12,10 +12,10 @@ To share it we will us, [nbviewer](https://nbviewer.jupyter.org), and interactiv
 
 ### Share your notebook
 
-1. Go to GitHub and copy your notebooks URL
+1. Go to GitHub and copy your notebooks URL.
 ![]({% include asset.html path="images/share-copy-url.png" %})
-2. Go to [nbviewer](https://nbviewer.jupyter.org)
-3. Paste your notebook's URL in the text window and click go
+2. Go to [nbviewer](https://nbviewer.jupyter.org).
+3. Paste your notebook's URL in the text window and click go.
 ![]({% include asset.html path="images/share-go-nbviewer.png" %})
 
 Congrats! You can now copy the ulr and share your finished product with your colleagues.

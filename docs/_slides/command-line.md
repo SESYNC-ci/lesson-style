@@ -7,19 +7,19 @@ If you prefer to use the command line for using git, here is how you can clone y
 
 ### Create a new folder
 
-1. Log in to the SESYNC's [Jupyter Server](https://jupyter.sesync.org/)
-2. Open the Terminal: **File -> New Launcher -> Terminal**
-3. Make a new project folder
+1. Log in to the SESYNC's [Jupyter Server](https://jupyter.sesync.org/).
+2. Open the Terminal: **File -> New Launcher -> Terminal**.
+3. Make a new project folder.
 ```
 userName@juplab00:~$ mkdir new-project-name
 ```
 
 ### Clone a repository
 
-1. Navigate to your project folder
-2. Clone your remote repository
-3. If prompted, enter your GitHub username and password. We suggest you use SSH for the URL to avoid having to repeatedly enter your log-in credentials. If you’re not sure if you’ve set up SSH authentication, see these [GitHub instructions](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-4. Navigate into the newly cloned repository by using the `cd` command
+1. Navigate to your project folder.
+2. Clone your remote repository.
+3. If prompted, enter your GitHub username and password. We suggest you use SSH for the URL to avoid having to repeatedly enter your log-in credentials. If you’re not sure if you’ve set up SSH authentication, see these [GitHub instructions](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
+4. Navigate into the newly cloned repository by using the `cd` command.
 
 Let's clone your remote repository by running the following command using the remote repository's ulr:
 ```
@@ -34,17 +34,17 @@ Next we will go over how to add your notebooks and files from your local to your
 
 ### Push Notebooks to GitHub
 Your repository is empty right now, let's push a notebook to it. 
-1. In your project folder create a new notebook by going to: **File -> New Launcher -> Python3**
-2. Name the Python notebook
-3. Do your work in the notebook and save it
+1. In your project folder create a new notebook by going to: **File -> New Launcher -> Python3**.
+2. Name the Python notebook.
+3. Do your work in the notebook and save it.
 ![]({% include asset.html path="images/save-notebook.png" %})
-4. Go to terminal and check the status of your repository
+4. Go to terminal and check the status of your repository.
 ```
 git status
 ```
 Your file will be listed under untracked files.
 ![]({% include asset.html path="images/git-untracked.png" %})
-5. Stage your changes with `git add <filename>`
+5. Stage your changes with `git add <filename>`.
 ```
 git add main.py
 ```
@@ -57,11 +57,11 @@ You can see that `main.ipynb` is being tracked.
 git commit -m "Descriptive statitics."
 ```
 ![]({% include asset.html path="images/git-commit.png" %})
-7. Pull down the current version of the repository from GitHub
+7. Pull down the current version of the repository from GitHub.
 ```
 git pull origin main
 ``` 
-8. Push your changes to the project's Github repository
+8. Push your changes to the project's Github repository.
 ```
 git push origin main
 ```

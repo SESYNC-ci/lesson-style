@@ -31,9 +31,9 @@ git config --global user.name "email@example.com"
 
 You can start the terminal form the JupyterLab launcher.
 
-1. Log into (SESYNC's Jupyter Server)[https://jupyter.sesync.org]
-2. Go to **File -> New Launcher**
-3. Click on Terminal. The terminal will open in a new tab
+1. Log into (SESYNC's Jupyter Server)[https://jupyter.sesync.org].
+2. Go to **File -> New Launcher**.
+3. Click on Terminal. The terminal will open in a new tab.
  
 ![]({% include asset.html path="images/terminal_jupyter.png" %}){:.nobox}
 {:.captioned}
