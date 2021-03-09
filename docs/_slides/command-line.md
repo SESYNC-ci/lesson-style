@@ -30,13 +30,13 @@ cd my-cloned-repo # navigate into the cloned repository
 ```
 
 Congrats! You have successfully cloned your remote repository. 
-Next we will go over how to add your notebooks and files from your local to your newly created repository. 
+Next we will go over how to add your notebooks and files from your local to your newly created remote repository. 
 
 ### Push Notebooks to GitHub
 Your repository is empty right now, let's push a notebook to it. 
-1. In your project folder create a new notebook, go to: **File -> New Launcher -> Python3**
+1. In your project folder create a new notebook by going to: **File -> New Launcher -> Python3**
 2. Name the Python notebook
-3. Do your work in the notebook or script and save it
+3. Do your work in the notebook and save it
 ![]({% include asset.html path="images/save-notebook.png" %})
 4. Go to terminal and check the status of your repository
 ```
@@ -49,9 +49,12 @@ Your file will be listed under untracked files.
 git add main.py
 ```
 You can check which files are being tracked with `git status`.
+
 You can see that `main.ipynb` is being tracked. 
 ![]({% include asset.html path="images/git-add.png" %})
-6. Commit your changes with `git commit -m "Commit Message Here"`. `commit` creates a checkpoint that you can revert back to at any time
+6. Commit your changes with `git commit -m "Commit Message Here"`. 
+
+`commit` creates a checkpoint that you can revert back to at any time
 ```
 git commit -m "Descriptive statitics."
 ```
@@ -66,6 +69,7 @@ git pull origin main
 git push origin main
 ```
 ![]({% include asset.html path="images/git-push.png" %})
+
 You can visit the project's GitHub repository page and see your commits.
 ![]({% include asset.html path="images/git-push-2.png" %})
 
